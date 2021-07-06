@@ -1,0 +1,29 @@
+{
+  "name": "team_profile_generator",
+  "version": "1.0.0",
+  "description": "Team Profile Generator will generate an HTML webpage that displays summaries for each person",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pgurung95/Team_profile_generator.git"
+  },
+  "author": "pgurung95",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pgurung95/Team_profile_generator/issues"
+  },
+  "homepage": "https://github.com/pgurung95/Team_profile_generator#readme",
+  "devDependencies": {
+    "jest": "^27.0.5"
+  },
+  "dependencies": {
+    "inquirer": "^8.1.1"
+  }
+}
