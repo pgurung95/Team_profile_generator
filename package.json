@@ -21,9 +21,10 @@
   },
   "homepage": "https://github.com/pgurung95/Team_profile_generator#readme",
   "devDependencies": {
-    "jest": "^27.0.5"
+    "jest": "^27.0.6"
   },
   "dependencies": {
-    "inquirer": "^8.1.1"
-  }
+    "inquirer": "^8.1.2"
+  },
+  "keywords": []
 }
