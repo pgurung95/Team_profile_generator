@@ -3,7 +3,7 @@
 ## Description
 A command-line application that dynamically generates a team roster html from a user’s input using the Inquirer package.
 
-## Walkthrough  https://drive.google.com/file/d/1pDP_1PHGFR2El8DT9SGCx6kW0HupkgJ9/view
+## Walkthrough  https://drive.google.com/file/d/1T_61i4WmlkapXRj8f91TrxUKWl6vhmXB/view
 
 ## Installation
 To install necessary dependencies, run the following command:
